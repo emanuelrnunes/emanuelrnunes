@@ -25,11 +25,15 @@ Atualmente estudando Java, Angular, TypeScript, SQL e boas práticas de desenvol
 
 ## 📚 Atualmente estudando
 
-- Programação Orientada a Objetos (POO)
+- Programação em Java
 - Estruturas de Dados
 - Angular
 - Banco de Dados
 - Desenvolvimento Web
+- Reactive Native
+- SpringBoot
+- HTML
+- CSS
 
 ---
 
