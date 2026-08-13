@@ -29,7 +29,7 @@ Atualmente estudando Java, Angular, TypeScript, SQL e boas práticas de desenvol
 - Angular
 - Banco de Dados
 - Desenvolvimento Web
-- Reactive Native
+- React Native
 - SpringBoot
 
 ---
