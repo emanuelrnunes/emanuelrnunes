@@ -1,16 +1,68 @@
-## Hi there 👋
+# Olá, eu sou Emanuel Nunes 👋
 
-<!--
-**emanuelrnunes/emanuelrnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação com foco em desenvolvimento web e backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudando Java, Angular, TypeScript, SQL e boas práticas de desenvolvimento de software.
+
+---
+
+## 🚀 Tecnologias
+
+- Java
+- Angular
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Python
+- Git
+- GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Angular
+- Banco de Dados
+- Desenvolvimento Web
+
+---
+
+## ⭐ Projetos em Destaque
+
+### ☕ Java Fundamentos
+
+Repositório com exercícios e estudos desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
+
+🔗 Projeto:
+https://github.com/emanuelrnunes/java-fundamentos
+
+### 💰 Cashlyo
+
+Sistema de gerenciamento financeiro desenvolvido utilizando Angular.
+
+🔗 Projeto:
+(Adicionar quando o projeto estiver no seu GitHub)
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de desenvolvimento para aplicar e expandir meus conhecimentos, contribuindo com projetos reais e evoluindo continuamente como profissional.
+
+---
+
+## 📫 Contato
+
+📧 Email:
+emanuel.n07@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/emanuel-nunes-dev
+
+📍 Rio de Janeiro, Brasil
