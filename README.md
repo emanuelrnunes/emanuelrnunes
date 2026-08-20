@@ -48,7 +48,7 @@ https://github.com/emanuelrnunes/java-fundamentos
 Sistema de gerenciamento financeiro desenvolvido utilizando Angular.
 
 🔗 Projeto:
-(Adicionar quando o projeto estiver no seu GitHub)
+
 
 ---
 
