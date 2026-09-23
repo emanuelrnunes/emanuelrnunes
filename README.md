@@ -49,11 +49,11 @@ https://github.com/emanuelrnunes/vollmed_API
 🔗 Projeto:
 https://github.com/emanuelrnunes/vollmed
 
-### 💰 Cashlyo
+### 📋 Nexus System
 
-Sistema de gerenciamento financeiro desenvolvido utilizando Angular.
+Aplicativo de gerenciamento de tarefas e projetos utilizando um sistema Kanban. Projeto em desenvolvimento.
 
-🔗 Projeto:
+🔗 Projeto: 
 
 
 ---
