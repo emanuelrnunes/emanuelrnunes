@@ -60,7 +60,7 @@ Aplicativo de gerenciamento de tarefas e projetos utilizando um sistema Kanban. 
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade na área de desenvolvimento para aplicar e expandir meus conhecimentos, contribuindo com projetos reais e evoluindo continuamente como profissional.
+Busco e crescer e ter oportunidades na área de desenvolvimento para aprender, aplicar e expandir meus conhecimentos, contribuindo com projetos reais e evoluindo continuamente como profissional.
 
 ---
 
