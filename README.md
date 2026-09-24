@@ -36,12 +36,17 @@ Atualmente estudando Java, Angular, TypeScript, SQL e boas práticas de desenvol
 
 ## ⭐ Projetos em Destaque
 
-### ☕ Java Fundamentos
+### ☕ Java Estudos
 
 Repositório com exercícios e estudos desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
 
 🔗 Projeto:
 https://github.com/emanuelrnunes/java-fundamentos
+
+🔗 Projeto:
+https://github.com/emanuelrnunes/java-jdbc-mysql
+
+### React Native e SpringBoot Estudos
 
 🔗 Projeto:
 https://github.com/emanuelrnunes/vollmed_API
