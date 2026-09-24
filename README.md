@@ -54,7 +54,7 @@ https://github.com/emanuelrnunes/vollmed
 Aplicativo de gerenciamento de tarefas e projetos utilizando um sistema Kanban. Projeto em desenvolvimento.
 
 🔗 Projeto: 
-
+https://github.com/emanuelrnunes/nexus-system
 
 ---
 
