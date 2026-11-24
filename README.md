@@ -20,13 +20,13 @@ Atualmente estudando Java, Angular, TypeScript, SQL e boas práticas de desenvol
 - Python
 - Git
 - GitHub
+- Banco de Dados
 
 ---
 
 ## 📚 Atualmente estudando
 
 - Estruturas de Dados
-- Angular
 - Banco de Dados
 - Desenvolvimento Web
 - React Native
