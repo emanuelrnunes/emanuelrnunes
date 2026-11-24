@@ -70,7 +70,7 @@ Busco e crescer e ter oportunidades na área de desenvolvimento para aprender, a
 ## 📫 Contato
 
 📧 Email:
-emanuel.n07@gmail.com
+emanuelrfnunes@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/emanuel-nunes-dev
