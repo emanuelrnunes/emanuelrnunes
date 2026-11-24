@@ -54,6 +54,11 @@ https://github.com/emanuelrnunes/vollmed_API
 🔗 Projeto:
 https://github.com/emanuelrnunes/vollmed
 
+### Projeto Academico
+
+🔗 Projeto:
+https://github.com/emanuelrnunes/nexus-system
+
 ---
 
 ## 🎯 Objetivo
